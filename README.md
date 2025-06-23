@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![[banner](https://raw.githubusercontent.com/basile-bron/Open-Translation/main/banner_github.jpg)](https://github.com/basile-bron/Open-Translation)
+[![[banner](https://raw.githubusercontent.com/basile-bron/Open-Translation/main/banner_github.jpg)](https://github.com/basile-bron/Open-Translation)
 [![Alt text](https://raw.githubusercontent.com/basile-bron/Title-clickbait-detection/refs/heads/NLP_1.0/assets/README-62b097da.png)](https://github.com/basile-bron/Title-clickbait-detection/tree/NLP_1.0)
 <!--
 **basile-bron/basile-bron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
