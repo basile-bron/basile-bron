@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![[banner](https://github.com/basile-bron/Open-Translation
+)](https://raw.githubusercontent.com/basile-bron/Open-Translation/main/banner_github.jpg)
+
 <!--
 **basile-bron/basile-bron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
