@@ -1,6 +1,6 @@
 [![banner](https://raw.githubusercontent.com/basile-bron/Open-Translation/main/banner_github.jpg)](https://github.com/basile-bron/Open-Translation)
 [![Alt text](https://raw.githubusercontent.com/basile-bron/Title-clickbait-detection/refs/heads/NLP_1.0/assets/README-62b097da.png)](https://github.com/basile-bron/Title-clickbait-detection/tree/NLP_1.0)
-[![Data-Structure-and-Algorithm](https://raw.githubusercontent.com/BasileBron/Linear-Algebra/master/img/banner_github.jpg)](https://github.com/basile-bron/Data-Structure-and-Algorithm/tree/master)
+[![Data-Structure-and-Algorithm](https://raw.githubusercontent.com/basile-bron/Data-Structure-and-Algorithm/refs/heads/master/img/banner.jpg)](https://github.com/basile-bron/Data-Structure-and-Algorithm/tree/master)
 [![Linear Algebra](https://raw.githubusercontent.com/BasileBron/Linear-Algebra/master/img/banner_github.jpg)](https://github.com/basile-bron/Linear-Algebra)
 
 
