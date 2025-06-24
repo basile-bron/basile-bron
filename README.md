@@ -4,7 +4,7 @@
 [![finite state automata](https://raw.githubusercontent.com/basile-bron/Theory-of-Computation-Automata-Theory/master/assets/banner.jpg)](https://github.com/basile-bron/Theory-of-Computation-Automata-Theory)
 [![Linear Algebra](https://raw.githubusercontent.com/BasileBron/Linear-Algebra/master/img/banner_github.jpg)](https://github.com/basile-bron/Linear-Algebra)
 [![Brain and behavior](https://raw.githubusercontent.com/basile-bron/Brain-And-Behavior/master/img/banner_github.jpg)](https://github.com/basile-bron/Brain-And-Behavior)
-
+[![Titanic data](https://raw.githubusercontent.com/BasileBron/Titanic-data-analysis-and-classification/master/data/Graphs/banner.jpg)](https://github.com/basile-bron/Titanic-data-analysis-and-classification)
 <!--
 **basile-bron/basile-bron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
